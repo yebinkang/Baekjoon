@@ -1,8 +1,7 @@
 # Baekjoon
-- - -
-## 목적: BOJ(https://www.acmicpc.net/)의 문제를 풉니다.
 
-## 참고사항
+## 목적 및 참고사항 
+BOJ(https://www.acmicpc.net/)의 문제를 풉니다.
 '[문제번호] 문제 제목'의 이름으로 작성될 예정입니다.
 JAVA, C++을 주로 사용합니다.
 

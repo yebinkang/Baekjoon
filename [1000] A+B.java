@@ -1,5 +1,3 @@
-//문제 출처: https://www.acmicpc.net/problem/1000
-
 import java.util.Scanner;
 
 public class Main {
